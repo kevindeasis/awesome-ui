@@ -119,7 +119,7 @@ To contribute please do a pull request
 
 
 #Style
-  ###Colors
+  ### Colors
 
   * [Color Contrast](https://www.viget.com/articles/color-contrast)
 
@@ -344,17 +344,17 @@ To contribute please do a pull request
 
 #Usability
 
- ##Accessibility
+ ### Accessibility
 
  [gmd](https://www.google.com/design/spec/usability/accessibility.html)
 
- ##Bidirectionality
+ ### Bidirectionality
 
  [gmd](https://www.google.com/design/spec/usability/bidirectionality.html)
 
 #Animation
 
-  ##Drawing
+  ### Drawing
 
   [Draw Space: Drawing] (https://www.drawspace.com/lessons)
 
