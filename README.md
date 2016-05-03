@@ -6,10 +6,12 @@ Feel free to do a pull request
 #Contents
 1. Style
   1. Colors
-  2. Imagery
-  2.2 Stock Photo
-  3. Typography
-  4. Writing
+  2. Icons
+    - Stock Icons
+  3. Imagery
+    - Stock Photo
+  4. Typography
+  5. Writing
 2. Layout
 3. Components
 4. Patterns
@@ -19,14 +21,42 @@ Feel free to do a pull request
 7. Resources
 8. Persons
 
-#Material Design
+#Contribute
+To contribute please do a pull request
+
+#UI-UX Ultimate Guides
 [Google Material Design](https://www.google.com/design/spec/material-design/introduction.html)
 
 [Design Code](https://designcode.io/)
 
 [Hack Design](https://hackdesign.org/)
 
-#Inspiration
+[ux pin](https://uxpin.com/knowledge.html)
+
+[the hipper element](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
+
+[smashing magazine](https://www.smashingmagazine.com/2012/08/beyond-wireframing-real-life-ux-design-process/)
+
+[Hack design](https://hackdesign.org/)
+
+[zurb](http://zurb.com/university/past-lessons)
+
+[ux-mag](http://uxmag.com/)
+
+[ux booth](http://www.uxbooth.com/)
+
+[nn group](https://www.nngroup.com/articles/)
+
+[ui-patterns](http://ui-patterns.com/)
+
+[uie](https://www.uie.com/)
+
+[usability geek](http://usabilitygeek.com/)
+
+[a list apart](http://alistapart.com/topic/user-experience)
+
+[boxes and arrows](http://boxesandarrows.com/)
+
 
 #Prototyping
   * [Pixate](http://www.pixate.com/)
@@ -70,7 +100,7 @@ Feel free to do a pull request
 
   * [Justinmind](http://www.justinmind.com/)
 
-  * [OmniGraffle]
+  * [OmniGraffle](https://www.omnigroup.com/omnigraffle)
 
   * [Wireframe.cc](ww.wireframe.cc)
 
@@ -108,7 +138,43 @@ Feel free to do a pull request
 
   * [Tuts+](http://design.tutsplus.com/articles/10-top-tips-for-creating-awesome-icons--cms-25538)
 
+  ###Stock Icons
+
+  * [Fontello: Icon fonts generator.](http://fontello.com/)
+
+  * [Flat Icon: A search engine for 16000+ glyph vector icons.](http://www.flaticon.com/)
+
+  * [Font Awesome: The iconic font and CSS toolkit.](http://fortawesome.github.io/Font-Awesome/)
+
+  * [Glyphsearch: Search for icons from other icon databases.](http://glyphsearch.com/)
+
+  * [Material Design Icons: 750 Free open-source glyphs by Google.](https://github.com/google/material-design-icons/releases/tag/1.0.0)
+
+  * [Icon Finder: Free icon section of the website.](https://www.iconfinder.com/free_icons)
+
+  * [Doodle Set: 50 Free Hand Doodle Icons](http://roundicons.com/doodle-icons-free-set/)
+
+  * [Flat Set: Free flat round icons set — 60 icons](http://roundicons.com/free-icons/)
+
+  * [Vector Line Set: Free Vector Line Icons Set — 50 icons](http://roundicons.com/free-vector-line-icons-set/)
+
+  * [MakeAppIcon: Generate App Icons of all sizes with a click.](http://makeappicon.com/)
+
+  * [Endless Icons: Free flat icons and creative stuff.](http://www.endlessicons.com/)
+
+  * [Perfect Icons: A social icon creation tool.](http://perfecticons.com/)
+
+  * [Material Design Icons: 750 Free open-source glyphs by Google.](https://github.com/google/material-design-icons/releases/tag/1.0.0)
+
+  * [Icon Sweets: 60 free vector Photoshop icons.](http://iconsweets.com/)
+
+  * [Ico Moon: 4000+ free vector icons, icon generator.](https://icomoon.io/)
+
+  * [The Noun Project: Thousands of glyph icons from different artists.](http://thenounproject.com/)
+
   ###Imagery
+
+  * [GMD: imagery](https://www.google.com/design/spec/style/imagery.html)
 
   ####Stock Photos
 
@@ -192,11 +258,31 @@ Feel free to do a pull request
 
   ###Typography
 
+  * [GMD: typography](https://www.google.com/design/spec/style/typography.html)
+
   * [Font-Pairing](http://www.designforfounders.com/font-pairing/)
 
   * [Typography Intro](https://buscandotrazos.wordpress.com/2012/08/27/a-brief-introduction-to-typography/)
 
   * [Typography Commentary](http://typographica.org/)
+
+  * [TypeGenius: Find the perfect font combo for your next project.](http://www.typegenius.com/)
+
+  * [FontFaceNinja: Browser extension to find the web fonts a site uses.](http://www.fontface.ninja/)
+
+  * [Google Fonts: Free, open-source fonts optimized for the web.](http://www.google.com/fonts)
+
+  * [Font-to-width: Fit pieces of text snugly within their containers.](http://font-to-width.com/)
+
+  * [Beautiful Web Type: Best typefaces from the Google web fonts directory.](http://hellohappy.org/beautiful-web-type/)
+
+  * [Font Squirrel: 100% free commercial fonts.](http://www.fontsquirrel.com/)
+
+  * [DaFont: Archive of freely downloadable fonts.](http://www.dafont.com/)
+
+  * [1001 Free Fonts: A huge selection of free fonts.](http://www.1001freefonts.com/)
+
+  * [FontPark: The web’s largest archive of free fonts.](http://www.fontpark.net/en/)
 
   * [Typography Resource: Google Fonts](https://www.google.com/fonts)
 
@@ -204,7 +290,7 @@ Feel free to do a pull request
 
   * [Inspiration: type inspire](http://typeinspire.com/)
 
-  * [Inspiration: design inspiration(http://designspiration.net/search/saves/?q=typography)
+  * [Inspiration: design inspiration](http://designspiration.net/search/saves/?q=typography)
 
   * [Inspiration: dribble](https://dribbble.com/tags/typography)
 
@@ -216,28 +302,58 @@ Feel free to do a pull request
 
   ###Writing
 
+  * [GMD: writing](https://www.google.com/design/spec/style/writing.html)
+
 #Layout
 
   ###Principles
 
+  * [GMD: layout principles](https://www.google.com/design/spec/layout/principles.html)
+
   ###Units & Measurement
+
+  * [GMD: Units & Measurement](https://www.google.com/design/spec/layout/units-measurements.html)
+
   ###Metrics & Keylines
+
+  * [GMD: Metrics & keylines](https://www.google.com/design/spec/layout/metrics-keylines.html)
+
   ###Structure
+
+  * [GMD: structure](https://www.google.com/design/spec/layout/structure.html)
+
   ###Responsive UI
+
+  * [GMD: responsive ui](https://www.google.com/design/spec/layout/responsive-ui.html)
+
   ###Split Screen
+
+  * [GMD: split screen](https://www.google.com/design/spec/layout/split-screen.html)
+
 
 #Components
 
+  * [GMD](https://www.google.com/design/spec/components/bottom-navigation.html#)
+
 #Patterns
 
+  * [GMD](https://www.google.com/design/spec/patterns/data-formats.html)
+
 #Usability
+
+ ###Accessibility
+
+ [gmd](https://www.google.com/design/spec/usability/accessibility.html)
+
+ ###Bidirectionality
+
+ [gmd](https://www.google.com/design/spec/usability/bidirectionality.html)
 
 #Animation
 
   ###Drawing
 
   [Draw Space: Drawing] (https://www.drawspace.com/lessons)
-
 
 #Resources
 
@@ -269,6 +385,30 @@ Feel free to do a pull request
 
   * [Learn to Design a Better Interface](https://courses.platzi.com/courses/interface-design-startups/)
 
+  * [Noexcuselist](http://www.noexcuselist.com/)
+
+  * [Harvard Open Courseware](http://cs50.tv/2013/fall/)
+
+  * [MIT Open Courseware](http://ocw.mit.edu/index.htm)
+
+  * [Yale Open Courseware — actual video lectures for the class so you can get the in-class experience. Lots of classes over lots of subjects.](http://oyc.yale.edu/)
+
+  * [Stanford Open Courseware](http://see.stanford.edu/see/courses.aspx)
+
+  * [Codecademy — Learn to code interactively, for free.(http://www.codecademy.com/)
+
+  * [Codeplace.com — Learn how to code from scratch. previously Stuk.io(http://codeplace.com/)
+
+  * [Udacity — Earn a Nanodegree recognized by industry leaders.(https://www.udacity.com/)
+
+  * [Learnable — The best way to learn web development.(https://learnable.com/)
+
+  * [Code School — Learn to code by doing.(https://www.codeschool.com/)
+
+  * [Thinkful — Advance your career with 1-on-1 mentorship.(https://www.thinkful.com/)
+
+  * [Code.org — Start learning today with easy tutorials.(https://code.org/)
+
   * [Code School](www.codeschool.com)
 
   * [Treehouse](www.teamtreehouse.com)
@@ -284,7 +424,8 @@ Feel free to do a pull request
   * [Udacity](www.udacity.com)
 
 
-Podcasts
+#Podcasts
+
   * [Design Matters](https://itunes.apple.com/podcast/id328074695)
 
   * [Deep end design](https://itunes.apple.com/podcast/id494747654)
@@ -313,7 +454,11 @@ Podcasts
 
   * [The Freelance Web](www.thefreelanceweb.com)
 
-Communities
+#Communities
+
+  * [eventbrite](https://www.eventbrite.ca/)
+
+  * [meetup](www.meetup.com/)
 
   * [Designer News](https://www.designernews.co/)
 
@@ -328,6 +473,47 @@ Communities
   * [Designers Talk](http://www.designerstalk.com/forums/)
 
   * [Layervault](https://news.layervault.com/)
+
+
+#Inspiration
+
+  * [MatrialUp: Daily material design inspiration.](http://www.materialup.com/)
+
+  * [FLTDSGN: Daily showcase of the best flat UI design websites and apps.](http://fltdsgn.com/)
+
+  * [Site Inspire: Web design inspiration.](http://www.siteinspire.com/)
+
+  * [UI Cloud: The largest user interface design database in the world.](http://ui-cloud.com/)
+
+  * [Moodboard: Build a beautiful moodboard and share the result.](http://www.gomoodboard.com/)
+
+  * [Crayon: The most comprehensive collection of marketing designs.](http://www.crayon.co/)
+
+  * [Land-Book: Product landing pages gallery.](http://land-book.com/)
+
+  * [Ocean: A community of designers sharing feedback.](http://ocean.ink/)
+
+  * [Dribbble: Show and tell for designers.](https://dribbble.com/)
+
+  * [Behance: Showcase & discover creative work.](https://www.behance.net/)
+
+  * [Pttrns: Mobile user interface patterns.](http://www.pttrns.com/)
+
+  * [Flat UI Design: Useful board I discovered thanks to Erik.](https://www.pinterest.com/warmarc/flat-ui-design/)
+
+  * [Awwwards: The awards for design, creativity and innovation.](http://www.awwwards.com/)
+
+  * [The Starter Kit: Curated resources for developers and designers.](http://www.thestarterkit.info/)
+
+  * [One Page Love: Resource for one page website inspiration.](http://onepagelove.com/)
+
+  * [UI Parade: User interface design tools and design inspiration.](http://www.uiparade.com/)
+
+  * [The Best Designs: The best of web design.](https://www.thebestdesigns.com/)
+
+  * [Agile Designers: Best resources for designers & developers.](http://agiledesigners.com/)
+
+  * [Niice: A search engine with taste.](https://niice.co/)
 
 
 #Jobs
