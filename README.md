@@ -4,7 +4,7 @@ Curated list for everything related to UI and UX
 Feel free to do a pull request
 
 #Contents
-1. Style
+1. [Style](https://github.com/kevindeasis/awesome-ui#style)
   1. Colors
   2. Icons
     - Stock Icons
@@ -12,14 +12,17 @@ Feel free to do a pull request
     - Stock Photo
   4. Typography
   5. Writing
-2. Layout
-3. Components
-4. Patterns
-5. Usability
-6. Animation
-  Drawing
-7. Resources
-8. Persons
+2. [Layout](https://github.com/kevindeasis/awesome-ui#layout)
+3. [Components](https://github.com/kevindeasis/awesome-ui#components)
+4. [Patterns](https://github.com/kevindeasis/awesome-ui#patterns)
+5. [Usability](https://github.com/kevindeasis/awesome-ui#usability)
+6. [Animation](https://github.com/kevindeasis/awesome-ui#animation)
+7. [Online Courses](https://github.com/kevindeasis/awesome-ui#online-courses)
+8. [Podcast](https://github.com/kevindeasis/awesome-ui#podcasts)
+9. [Communities](https://github.com/kevindeasis/awesome-ui#communities)
+10. [Inspiration](https://github.com/kevindeasis/awesome-ui#inspiration)
+11. [Jobs](https://github.com/kevindeasis/awesome-ui#jobs)
+
 
 #Contribute
 To contribute please do a pull request
@@ -306,7 +309,7 @@ To contribute please do a pull request
 
 #Layout
 
-  ###Principles
+  ##Principles
 
   * [GMD: layout principles](https://www.google.com/design/spec/layout/principles.html)
 
@@ -341,17 +344,17 @@ To contribute please do a pull request
 
 #Usability
 
- ###Accessibility
+ ##Accessibility
 
  [gmd](https://www.google.com/design/spec/usability/accessibility.html)
 
- ###Bidirectionality
+ ##Bidirectionality
 
  [gmd](https://www.google.com/design/spec/usability/bidirectionality.html)
 
 #Animation
 
-  ###Drawing
+  ##Drawing
 
   [Draw Space: Drawing] (https://www.drawspace.com/lessons)
 
@@ -395,19 +398,19 @@ To contribute please do a pull request
 
   * [Stanford Open Courseware](http://see.stanford.edu/see/courses.aspx)
 
-  * [Codecademy — Learn to code interactively, for free.(http://www.codecademy.com/)
+  * [Codecademy — Learn to code interactively, for free.](http://www.codecademy.com/)
 
-  * [Codeplace.com — Learn how to code from scratch. previously Stuk.io(http://codeplace.com/)
+  * [Codeplace.com — Learn how to code from scratch. previously Stuk.io](http://codeplace.com/)
 
-  * [Udacity — Earn a Nanodegree recognized by industry leaders.(https://www.udacity.com/)
+  * [Udacity — Earn a Nanodegree recognized by industry leaders.](https://www.udacity.com/)
 
-  * [Learnable — The best way to learn web development.(https://learnable.com/)
+  * [Learnable — The best way to learn web development.](https://learnable.com/)
 
-  * [Code School — Learn to code by doing.(https://www.codeschool.com/)
+  * [Code School — Learn to code by doing.](https://www.codeschool.com/)
 
-  * [Thinkful — Advance your career with 1-on-1 mentorship.(https://www.thinkful.com/)
+  * [Thinkful — Advance your career with 1-on-1 mentorship.](https://www.thinkful.com/)
 
-  * [Code.org — Start learning today with easy tutorials.(https://code.org/)
+  * [Code.org — Start learning today with easy tutorials.](https://code.org/)
 
   * [Code School](www.codeschool.com)
 
