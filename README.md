@@ -1,10 +1,12 @@
 # Awesome-UI
-Resource for UI / UX
-Curated list for everything related to UI and UX
-Feel free to do a pull request
+Resource for UI / UX curated list for everything related to UI and UX. Feel free to do a pull request
 
 #Contents
-1. [Style](https://github.com/kevindeasis/awesome-ui#style)
+#UI-UX Ultimate Guides
+0.[Prototyping Tools](https://github.com/kevindeasis/awesome-ui#prototyping-tools)
+1.[Wireframing Tools](https://github.com/kevindeasis/awesome-ui#wireframing-tools)
+
+2. [Style](https://github.com/kevindeasis/awesome-ui#style)
   1. Colors
   2. Icons
     - Stock Icons
@@ -12,16 +14,16 @@ Feel free to do a pull request
     - Stock Photo
   4. Typography
   5. Writing
-2. [Layout](https://github.com/kevindeasis/awesome-ui#layout)
-3. [Components](https://github.com/kevindeasis/awesome-ui#components)
-4. [Patterns](https://github.com/kevindeasis/awesome-ui#patterns)
-5. [Usability](https://github.com/kevindeasis/awesome-ui#usability)
-6. [Animation](https://github.com/kevindeasis/awesome-ui#animation)
-7. [Online Courses](https://github.com/kevindeasis/awesome-ui#online-courses)
-8. [Podcast](https://github.com/kevindeasis/awesome-ui#podcasts)
-9. [Communities](https://github.com/kevindeasis/awesome-ui#communities)
-10. [Inspiration](https://github.com/kevindeasis/awesome-ui#inspiration)
-11. [Jobs](https://github.com/kevindeasis/awesome-ui#jobs)
+3. [Layout](https://github.com/kevindeasis/awesome-ui#layout)
+4. [Components](https://github.com/kevindeasis/awesome-ui#components)
+5. [Patterns](https://github.com/kevindeasis/awesome-ui#patterns)
+6. [Usability](https://github.com/kevindeasis/awesome-ui#usability)
+7. [Animation](https://github.com/kevindeasis/awesome-ui#animation)
+8. [Online Courses](https://github.com/kevindeasis/awesome-ui#online-courses)
+9. [Podcast](https://github.com/kevindeasis/awesome-ui#podcasts)
+10. [Communities](https://github.com/kevindeasis/awesome-ui#communities)
+11. [Inspiration](https://github.com/kevindeasis/awesome-ui#inspiration)
+12. [Jobs](https://github.com/kevindeasis/awesome-ui#jobs)
 
 
 #Contribute
@@ -33,6 +35,8 @@ To contribute please do a pull request
 [Design Code](https://designcode.io/)
 
 [Hack Design](https://hackdesign.org/)
+
+[Google Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=en)
 
 [ux pin](https://uxpin.com/knowledge.html)
 
@@ -61,7 +65,7 @@ To contribute please do a pull request
 [boxes and arrows](http://boxesandarrows.com/)
 
 
-#Prototyping
+#Prototyping Tools
   * [Pixate](http://www.pixate.com/)
 
   * [Design CC / Adobe Comet](http://www.adobe.com/products/experience-design.html)
@@ -89,7 +93,7 @@ To contribute please do a pull request
   * [froont](http://froont.com/)
 
 
-#Wireframing
+#Wireframing Tools
 
   * [Mockplus](http://www.mockplus.com/)
 
@@ -119,6 +123,8 @@ To contribute please do a pull request
 
 
 #Style
+Style categories
+
   ### Colors
 
   * [Color Contrast](https://www.viget.com/articles/color-contrast)
@@ -308,6 +314,7 @@ To contribute please do a pull request
   * [GMD: writing](https://www.google.com/design/spec/style/writing.html)
 
 #Layout
+Layout categories
 
 ###Principles
 
@@ -343,6 +350,11 @@ To contribute please do a pull request
   * [GMD](https://www.google.com/design/spec/patterns/data-formats.html)
 
 #Usability
+Usability categories
+
+[Design principles](http://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-interface-design)
+[Usability Book](http://www.usabilitybok.org/principles-for-usable-design)
+[Reddit Usability](https://www.reddit.com/r/usability/)
 
 ### Accessibility
 
@@ -353,10 +365,21 @@ To contribute please do a pull request
  [gmd](https://www.google.com/design/spec/usability/bidirectionality.html)
 
 #Animation
+Animation Categories
 
 ### Drawing
 
   [Draw Space: Drawing] (https://www.drawspace.com/lessons)
+
+###UX Design
+
+  * [Smashing Magazine](https://www.smashingmagazine.com/2015/05/functional-ux-design-animations/)
+
+  * [Google Developers](https://developers.google.com/web/fundamentals/design-and-ui/animations/?hl=en)
+
+  * [Animation Principles](http://adaptivepath.org/ideas/jedi-principles-of-ui-animation/)
+
+  * [Animation Principles](https://medium.com/motion-in-interaction/animation-principles-in-ui-design-understanding-easing-bea05243fe3#.tz3i4crs3)
 
 #Resources
 
