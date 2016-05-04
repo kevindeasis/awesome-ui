@@ -1,6 +1,12 @@
 # Awesome-UI
 Resource for UI / UX curated list for everything related to UI and UX. Feel free to do a pull request
 
+# Medium
+[The medium blog post is here](https://medium.com/free-stuff/500-curated-design-to-learn-ui-ux-resource-list-2ca7c857adbd#.pup0ub371)
+##Other list of awesome free stuff
+[Is Here](https://medium.com/free-stuff)
+
+
 #Contents
 #UI-UX Ultimate Guides
 0.[Prototyping Tools](https://github.com/kevindeasis/awesome-ui#prototyping-tools)
