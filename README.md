@@ -1,5 +1,6 @@
 # Awesome-UI
-Resource for UI / UX curated list for everything related to UI and UX. Feel free to do a pull request
+> A curated list of awesome UI/UX, and Design
+Resource for everything related to UI / UX. Contributions are welcome, just do a pull request!
 
 # Medium
 [The medium blog post is here](https://medium.com/free-stuff/500-curated-design-to-learn-ui-ux-resource-list-2ca7c857adbd#.pup0ub371)
@@ -387,6 +388,10 @@ Animation Categories
 
   * [Animation Principles](https://medium.com/motion-in-interaction/animation-principles-in-ui-design-understanding-easing-bea05243fe3#.tz3i4crs3)
 
+  * [Dashboards](http://www.sisense.com/blog/4-design-principles-creating-better-dashboards/)
+
+  * [ux psychology](http://thehipperelement.com/post/87574750438/ux-crash-course-user-psychology)
+
 #Resources
 
   * [growth supply](http://growth.supply/free/design-code/)
@@ -394,6 +399,8 @@ Animation Categories
   * [student web design](http://www.studentguidewebdesign.com/)
 
   * [Design for Founder](http://www.designforfounders.com/learn-design/)
+
+  * [Boxes and arrows](http://boxesandarrows.com/)
 
   * [designcode](https://designcode.io/learn)
 
@@ -406,6 +413,15 @@ Animation Categories
   * [Tools](http://1stwebdesigner.com/best-ux-design-tutorials/)
 
   * [Person: Paul Boag](https://www.youtube.com/watch?v=inT-VLzpEzE)
+
+  * [uie](https://www.uie.com/)
+
+  * [uxmag](http://uxmag.com/)
+
+#Checklist
+
+  * [uxchecklist](https://uxchecklist.github.io/)
+
 
 #Online Courses
 
@@ -547,6 +563,46 @@ Animation Categories
 
   * [Niice: A search engine with taste.](https://niice.co/)
 
+#Software
+
+  * [UX check](http://www.uxcheck.co/)
+  * [UX check repo](https://github.com/uxchecklist/uxchecklist.github.io)
+    1 Research
+      - [Competitive Analysis](http://boxesandarrows.com/competitive-analysis-understanding-the-market-context/)
+      - [Data Analysis](http://www.nngroup.com/articles/analytics-user-experience/)
+      - [User Feedback](https://www.gov.uk/service-manual/user-centred-design/user-research/index.html)
+    2 Plan
+      - [User Stories](https://www.newfangled.com/how-to-tell-the-users-story/)
+      - [User Flows](http://www.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/)
+      - [Red Routes](http://userfocus.co.uk/articles/prioritising-functions.html)
+    3 Explore
+      - [Brainstorm & Sketch](http://www.gamestorming.com/the-wiki/)
+      - [Wireframe](http://www.uxpin.com/guide-to-wireframing.html)
+      - [Prototype](http://uxdesignweekly.com/ux-resources/prototyping-tools/)
+    4 Communicate
+      - [IA](http://alistapart.com/article/thedisciplineofcontentstrategy)
+      - [Language](http://alistapart.com/article/translation-is-ux)
+      - [Accessibility](https://www.gov.uk/service-manual/user-centred-design/accessibility.html)
+    5 Create
+      - [UI Elements](http://styleguides.io/)
+      - [Gestures](http://www.smashingmagazine.com/2013/05/24/gesture-driven-interface/)
+      - [Responsiveness](http://uxmag.com/articles/create-a-better-responsive-user-experience/)
+    6 Give Feedback
+      - [Waiting Times](http://www.sitepoint.com/3-tips-make-application-feel-faster/)
+      - [Erros](http://uxmag.com/articles/failing-gracefully)
+      - [Completed Actions](http://www.lukew.com/ff/entry.asp?1759)
+    7 Finalise
+      - [Finalise Layout](http://www.usability.gov/what-and-why/visual-design.html)
+      - [Use of image and icons](http://www.nngroup.com/articles/icon-usability/)
+      - [Font Colours & Hierarchy](http://52weeksofux.com/post/443828775/visual-hierarchy)
+    8 Delight
+      - [Micro copy](http://www.smashingmagazine.com/2012/07/18/the-personality-layer/)
+      - [Micro interactions](http://microinteractions.com/what-is-a-microinteraction/)
+      - [Transitions](http://www.google.co.uk/design/spec/animation/authentic-motion.html)
+    9 Analyse
+      - [KPI Setup](http://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product)
+      - [AB Test Plan](https://www.gov.uk/service-manual/user-centred-design/user-research/multivariate-testing.html)
+      - [Test](http://www.nngroup.com/articles/which-ux-research-methods/)
 
 #Jobs
 
