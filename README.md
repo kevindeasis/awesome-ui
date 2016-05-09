@@ -99,6 +99,8 @@ To contribute please do a pull request
 
   * [froont](http://froont.com/)
 
+  * [webflow](http://webflow.com)
+
 
 #Wireframing Tools
 
@@ -563,10 +565,10 @@ Animation Categories
 
   * [Niice: A search engine with taste.](https://niice.co/)
 
-#Software
+#Checklist
 
-  * [UX check](http://www.uxcheck.co/)
-  * [UX check repo](https://github.com/uxchecklist/uxchecklist.github.io)
+  * [UX checklist](http://www.uxcheck.co/)
+  * [UX checklist repo](https://github.com/uxchecklist/uxchecklist.github.io)
     1. Research
       - [Competitive Analysis](http://boxesandarrows.com/competitive-analysis-understanding-the-market-context/)
       - [Data Analysis](http://www.nngroup.com/articles/analytics-user-experience/)
@@ -603,6 +605,18 @@ Animation Categories
       - [KPI Setup](http://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product)
       - [AB Test Plan](https://www.gov.uk/service-manual/user-centred-design/user-research/multivariate-testing.html)
       - [Test](http://www.nngroup.com/articles/which-ux-research-methods/)
+
+#Other Software / Tools
+
+  * [Pixlr](https://pixlr.com/)
+
+  * [Uxdesign](http://uxdesign.cc/ux-tools/)
+
+  * [Now](https://www.invisionapp.com/now)
+
+  * [Do](https://www.invisionapp.com/do)
+
+  * [Sketch](https://www.sketchapp.com/)
 
 #Jobs
 
