@@ -565,10 +565,14 @@ Animation Categories
 
   * [Niice: A search engine with taste.](https://niice.co/)
 
-#Checklist
+# Checklist
 
   * [UX checklist](http://www.uxcheck.co/)
   * [UX checklist repo](https://github.com/uxchecklist/uxchecklist.github.io)
+
+#Planning
+
+  * Planning
     1. Research
       - [Competitive Analysis](http://boxesandarrows.com/competitive-analysis-understanding-the-market-context/)
       - [Data Analysis](http://www.nngroup.com/articles/analytics-user-experience/)
@@ -606,7 +610,7 @@ Animation Categories
       - [AB Test Plan](https://www.gov.uk/service-manual/user-centred-design/user-research/multivariate-testing.html)
       - [Test](http://www.nngroup.com/articles/which-ux-research-methods/)
 
-#Other Software / Tools
+#Other Software / Tools / Resources
 
   * [Pixlr](https://pixlr.com/)
 
@@ -617,6 +621,29 @@ Animation Categories
   * [Do](https://www.invisionapp.com/do)
 
   * [Sketch](https://www.sketchapp.com/)
+
+  * [Ninja mock](https://ninjamock.com/)
+
+  * [App landing examples 2015](http://webdesignledger.com/best-2015-app-pages/)
+
+  * [Iphone Vectors](http://www.freepik.com/free-photos-vectors/iphone)
+
+  * [Place it: Iphone Vectors, Mockups, and Video](https://placeit.net/)
+
+  * [Magic Mockups](http://magicmockups.com/)
+
+  * [PicApp](http://picapp.net/)
+
+  * [MockDrop](http://mockdrop.io/)
+
+  * [Smart mockups](http://smartmockups.com/)
+
+  * [Isweet it mockups](https://itunes.apple.com/us/app/isweetit/id895625230?l=de&ls=1&mt=8)
+
+# Boiler Plate
+- [App Landing Page](https://github.com/joshbuchea/awesome-app-landing-page)
+- []
+- []
 
 #Jobs
 
