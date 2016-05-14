@@ -1,0 +1,37 @@
+{
+  "name": "awesome-ui",
+  "version": "1.0.0",
+  "description": "cureated list for design (ui/ux ) resource",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git-cz"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindeasis/awesome-ui.git"
+  },
+  "keywords": [
+    "design",
+    "ui",
+    "ux",
+    "user",
+    "interface",
+    "user",
+    "experience"
+  ],
+  "author": "Kevin De Asis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevindeasis/awesome-ui/issues"
+  },
+  "homepage": "https://github.com/kevindeasis/awesome-ui#readme",
+  "devDependencies": {
+    "commitizen": "^2.8.1",
+    "cz-conventional-changelog": "^1.1.6"
+  },
+  "czConfig": {
+    "path": "node_modules/cz-conventional-changelog"
+  }
+}

@@ -71,6 +71,8 @@ To contribute please do a pull request
 
 [boxes and arrows](http://boxesandarrows.com/)
 
+[eight shapes ](https://medium.com/eightshapes-llc)
+
 
 #Prototyping Tools
   * [Pixate](http://www.pixate.com/)
@@ -642,8 +644,6 @@ Animation Categories
 
 # Boiler Plate
 - [App Landing Page](https://github.com/joshbuchea/awesome-app-landing-page)
-- []
-- []
 
 #Jobs
 
