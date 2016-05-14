@@ -1,6 +1,16 @@
-# Awesome-UI
+# Awesome-UI [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 > A curated list of awesome UI/UX, and Design
 Resource for everything related to UI / UX. Contributions are welcome, just do a pull request!
+
+
+## License
+
+MIT
+
+## Contribute
+
+> Contributions are welcome! Just do a pull request!
+  - **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 # Medium
 [The medium blog post is here](https://medium.com/free-stuff/500-curated-design-to-learn-ui-ux-resource-list-2ca7c857adbd#.pup0ub371)
@@ -32,9 +42,6 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 11. [Inspiration](https://github.com/kevindeasis/awesome-ui#inspiration)
 12. [Jobs](https://github.com/kevindeasis/awesome-ui#jobs)
 
-
-#Contribute
-To contribute please do a pull request
 
 #UI-UX Ultimate Guides
 [Google Material Design](https://www.google.com/design/spec/material-design/introduction.html)
