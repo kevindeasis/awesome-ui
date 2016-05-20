@@ -328,6 +328,11 @@ MIT
 
   * [Inspiration: abduzeedo](http://abduzeedo.com/tags/typography?page=1)
 
+  1. Resource
+
+    * [google fonts file](https://github.com/google/fonts)
+    * [install google font files](https://github.com/qrpike/Web-Font-Load)
+
   ###Writing
 
   * [GMD: writing](https://www.google.com/design/spec/style/writing.html)
@@ -593,6 +598,7 @@ Animation Categories
 
   * [r/androidisbeautiful](https://www.reddit.com/r/AndroidIsBeautiful/)
 
+  * [you can almost do anything: logo](http://www.elischiff.com/blog/2016/4/12/do-almost-anything)
 
 # Checklist
 
