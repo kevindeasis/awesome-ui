@@ -120,6 +120,8 @@ MIT
   * [Balsamiq](http://balsamiq.com/products/mockups/)
 
   * [AdobeCC](http://www.adobe.com/uk/products/photoshop)
+  
+  * [Adobe Spark](https://spark.adobe.com/) 
 
   * [Mockflow](www.mockflow.com)
 
@@ -428,7 +430,13 @@ Animation Categories
   * [uie](https://www.uie.com/)
 
   * [uxmag](http://uxmag.com/)
+  
+  * [Sketch app resources](http://www.sketchappsources.com/)
 
+  * [Sketch toolbox](http://sketchtoolbox.com/)
+  
+  * [Sketch Plugins](https://designcode.io/sketch-plugins) 
+  
 #Checklist
 
   * [uxchecklist](https://uxchecklist.github.io/)
