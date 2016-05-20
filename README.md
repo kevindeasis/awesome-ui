@@ -141,9 +141,9 @@ MIT
 
 
 #Style
-Style categories
+>Style categories
 
-  ### Colors
+### Colors
 
   * [Color Contrast](https://www.viget.com/articles/color-contrast)
 
@@ -573,6 +573,19 @@ Animation Categories
   * [Agile Designers: Best resources for designers & developers.](http://agiledesigners.com/)
 
   * [Niice: A search engine with taste.](https://niice.co/)
+
+  * [r/web_design](https://www.reddit.com/r/web_design)
+
+  * [r/userexperience](https://www.reddit.com/r/userexperience)
+
+  * [r/internetisbeautiful](https://www.reddit.com/r/InternetIsBeautiful)
+
+  * [r/webdesign](https://www.reddit.com/r/webdesign)
+
+  * [r/smt](https://www.reddit.com/r/SomebodyMakeThis)
+
+  * [r/androidisbeautiful](https://www.reddit.com/r/AndroidIsBeautiful/)
+
 
 # Checklist
 
