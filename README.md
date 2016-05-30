@@ -18,66 +18,65 @@ MIT
 [Is Here](https://medium.com/free-stuff)
 
 
-#Contents
-#UI-UX Ultimate Guides
-0.[Prototyping Tools](https://github.com/kevindeasis/awesome-ui#prototyping-tools)
-1.[Wireframing Tools](https://github.com/kevindeasis/awesome-ui#wireframing-tools)
-2. [Style](https://github.com/kevindeasis/awesome-ui#style)
-  1. Colors
-  2. Icons
-    - Stock Icons
-  3. Imagery
-    - Stock Photo
-  4. Typography
-  5. Writing
-3. [Layout](https://github.com/kevindeasis/awesome-ui#layout)
-4. [Components](https://github.com/kevindeasis/awesome-ui#components)
-5. [Patterns](https://github.com/kevindeasis/awesome-ui#patterns)
-6. [Usability](https://github.com/kevindeasis/awesome-ui#usability)
-7. [Animation](https://github.com/kevindeasis/awesome-ui#animation)
-8. [Online Courses](https://github.com/kevindeasis/awesome-ui#online-courses)
-9. [Podcast](https://github.com/kevindeasis/awesome-ui#podcasts)
-10. [Communities](https://github.com/kevindeasis/awesome-ui#communities)
-11. [Inspiration](https://github.com/kevindeasis/awesome-ui#inspiration)
-12. [Jobs](https://github.com/kevindeasis/awesome-ui#jobs)
+# Table of Contents
+1. [Prototyping Tools](https://github.com/kevindeasis/awesome-ui#prototyping-tools)
+2. [Wireframing Tools](https://github.com/kevindeasis/awesome-ui#wireframing-tools)
+3. [Style](https://github.com/kevindeasis/awesome-ui#style)
+   + Colors
+   + Icons
+     - Stock Icons
+   + Imagery
+     - Stock Photo
+   + Typography
+   + Writing
+4. [Layout](https://github.com/kevindeasis/awesome-ui#layout)
+5. [Components](https://github.com/kevindeasis/awesome-ui#components)
+6. [Patterns](https://github.com/kevindeasis/awesome-ui#patterns)
+7. [Usability](https://github.com/kevindeasis/awesome-ui#usability)
+8. [Animation](https://github.com/kevindeasis/awesome-ui#animation)
+9. [Online Courses](https://github.com/kevindeasis/awesome-ui#online-courses)
+10. [Podcast](https://github.com/kevindeasis/awesome-ui#podcasts)
+11. [Communities](https://github.com/kevindeasis/awesome-ui#communities)
+12. [Inspiration](https://github.com/kevindeasis/awesome-ui#inspiration)
+13. [Jobs](https://github.com/kevindeasis/awesome-ui#jobs)
 
 
 #UI-UX Ultimate Guides
-[Google Material Design](https://www.google.com/design/spec/material-design/introduction.html)
+- [Google Material Design](https://www.google.com/design/spec/material-design/introduction.html)
 
-[Design Code](https://designcode.io/)
+- [Design Code](https://designcode.io/)
 
-[Hack Design](https://hackdesign.org/)
+- [Hack Design](https://hackdesign.org/)
 
-[Google Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=en)
+- [Google Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=en)
 
-[ux pin](https://uxpin.com/knowledge.html)
+- [ux pin](https://uxpin.com/knowledge.html)
 
-[the hipper element](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
+- [the hipper element](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
 
-[smashing magazine](https://www.smashingmagazine.com/2012/08/beyond-wireframing-real-life-ux-design-process/)
+- [smashing magazine](https://www.smashingmagazine.com/2012/08/beyond-wireframing-real-life-ux-design-process/)
 
-[Hack design](https://hackdesign.org/)
+- [Hack design](https://hackdesign.org/)
 
-[zurb](http://zurb.com/university/past-lessons)
+- [zurb](http://zurb.com/university/past-lessons)
 
-[ux-mag](http://uxmag.com/)
+- [ux-mag](http://uxmag.com/)
 
-[ux booth](http://www.uxbooth.com/)
+- [ux booth](http://www.uxbooth.com/)
 
-[nn group](https://www.nngroup.com/articles/)
+- [nn group](https://www.nngroup.com/articles/)
 
-[ui-patterns](http://ui-patterns.com/)
+- [ui-patterns](http://ui-patterns.com/)
 
-[uie](https://www.uie.com/)
+- [uie](https://www.uie.com/)
 
-[usability geek](http://usabilitygeek.com/)
+- [usability geek](http://usabilitygeek.com/)
 
-[a list apart](http://alistapart.com/topic/user-experience)
+- [a list apart](http://alistapart.com/topic/user-experience)
 
-[boxes and arrows](http://boxesandarrows.com/)
+- [boxes and arrows](http://boxesandarrows.com/)
 
-[eight shapes ](https://medium.com/eightshapes-llc)
+- [eight shapes ](https://medium.com/eightshapes-llc)
 
 
 #Prototyping Tools
