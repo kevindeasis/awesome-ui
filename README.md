@@ -22,13 +22,13 @@ MIT
 1. [Prototyping Tools](https://github.com/kevindeasis/awesome-ui#prototyping-tools)
 2. [Wireframing Tools](https://github.com/kevindeasis/awesome-ui#wireframing-tools)
 3. [Style](https://github.com/kevindeasis/awesome-ui#style)
-   + Colors
-   + Icons
-     - Stock Icons
-   + Imagery
-     - Stock Photo
-   + Typography
-   + Writing
+   + [Colors](https://github.com/kevindeasis/awesome-ui#colors)
+   + [Icons](https://github.com/kevindeasis/awesome-ui#colors)
+     - [Stock Icons](https://github.com/kevindeasis/awesome-ui#stock-icons)
+   + [Imagery](https://github.com/kevindeasis/awesome-ui#imagery)
+     - [Stock Photo](https://github.com/kevindeasis/awesome-ui#stock-photos)
+   + [Typography](https://github.com/kevindeasis/awesome-ui#typography)
+   + [Writing](https://github.com/kevindeasis/awesome-ui#writing)
 4. [Layout](https://github.com/kevindeasis/awesome-ui#layout)
 5. [Components](https://github.com/kevindeasis/awesome-ui#components)
 6. [Patterns](https://github.com/kevindeasis/awesome-ui#patterns)
@@ -38,7 +38,10 @@ MIT
 10. [Podcast](https://github.com/kevindeasis/awesome-ui#podcasts)
 11. [Communities](https://github.com/kevindeasis/awesome-ui#communities)
 12. [Inspiration](https://github.com/kevindeasis/awesome-ui#inspiration)
-13. [Jobs](https://github.com/kevindeasis/awesome-ui#jobs)
+13. [Checklist](https://github.com/kevindeasis/awesome-ui#checklist-1)
+14. [Work Flow](https://github.com/kevindeasis/awesome-ui#planning)
+15. [Other Software & Tools](https://github.com/kevindeasis/awesome-ui#other-software--tools--resources)
+16. [Jobs](https://github.com/kevindeasis/awesome-ui#jobs)
 
 
 #UI-UX Ultimate Guides
@@ -327,7 +330,7 @@ MIT
 
   * [Inspiration: abduzeedo](http://abduzeedo.com/tags/typography?page=1)
 
-  1. Resource
+  #### Font Resource
 
     * [google fonts file](https://github.com/google/fonts)
     * [install google font files](https://github.com/qrpike/Web-Font-Load)
@@ -438,12 +441,7 @@ Animation Categories
 
   * [Sketch toolbox](http://sketchtoolbox.com/)
   
-  * [Sketch Plugins](https://designcode.io/sketch-plugins) 
-  
-#Checklist
-
-  * [uxchecklist](https://uxchecklist.github.io/)
-
+  * [Sketch Plugins](https://designcode.io/sketch-plugins)
 
 #Online Courses
 
@@ -609,6 +607,7 @@ Animation Categories
 
   * [UX checklist](http://www.uxcheck.co/)
   * [UX checklist repo](https://github.com/uxchecklist/uxchecklist.github.io)
+  * [uxchecklist](https://uxchecklist.github.io/)
 
 #Planning
 
