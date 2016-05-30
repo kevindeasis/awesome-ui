@@ -38,7 +38,7 @@ MIT
 10. [Podcast](https://github.com/kevindeasis/awesome-ui#podcasts)
 11. [Communities](https://github.com/kevindeasis/awesome-ui#communities)
 12. [Inspiration](https://github.com/kevindeasis/awesome-ui#inspiration)
-13. [Checklist](https://github.com/kevindeasis/awesome-ui#checklist-1)
+13. [Checklist](https://github.com/kevindeasis/awesome-ui#checklist)
 14. [Work Flow](https://github.com/kevindeasis/awesome-ui#planning)
 15. [Other Software & Tools](https://github.com/kevindeasis/awesome-ui#other-software--tools--resources)
 16. [Jobs](https://github.com/kevindeasis/awesome-ui#jobs)
@@ -649,6 +649,10 @@ Animation Categories
       - [AB Test Plan](https://www.gov.uk/service-manual/user-centred-design/user-research/multivariate-testing.html)
       - [Test](http://www.nngroup.com/articles/which-ux-research-methods/)
 
+# Ethics
+[Time well spent](http://timewellspent.io/)
+[Dark patterns.org](http://darkpatterns.org/)
+
 #Other Software / Tools / Resources
 
   * [Pixlr](https://pixlr.com/)
@@ -679,6 +683,14 @@ Animation Categories
 
   * [Isweet it mockups](https://itunes.apple.com/us/app/isweetit/id895625230?l=de&ls=1&mt=8)
 
+  * [design collection and insiprations](https://www.reddit.com/r/Design/comments/szz0t/a_collection_of_design_inspiration_and_resources/)
+
+  * [best ux designer tools and resources collection](https://medium.com/@UXAliveTurkey/the-best-ux-designer-tools-resources-collection-24bf115d17bc#.sgh1i2b2c)
+
+  * [the only ux reading list ever](https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.65zsj3nxc)
+
+  * [Top 10 UI Design Resources](https://medium.mybridge.co/top-10-ui-design-resources-that-make-designers-life-easier-d5cd0d789959#.kd49b23gs)
+  
 # Boiler Plate
 - [App Landing Page](https://github.com/joshbuchea/awesome-app-landing-page)
 
