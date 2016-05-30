@@ -600,6 +600,12 @@ Animation Categories
 
   * [you can almost do anything: logo](http://www.elischiff.com/blog/2016/4/12/do-almost-anything)
 
+  * [freebiesbug](https://www.facebook.com/freebiesbug/?fref=nf)
+
+  * [tympanus](http://tympanus.net/codrops/2016/05/25/isometric-and-3d-grids/?utm_content=buffer08334&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+
+  * [ux design from the 90's](http://techcrunch.com/2016/05/28/what-ux-designers-can-learn-from-1990s-japanese-video-games/)
+
 # Checklist
 
   * [UX checklist](http://www.uxcheck.co/)
