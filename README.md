@@ -111,6 +111,8 @@ MIT
 
   * [webflow](http://webflow.com)
 
+  * [Krista make text and vector awesome w/ animation](https://krita.org/download/krita-desktop/)
+
 
 #Wireframing Tools
 
@@ -443,6 +445,8 @@ Animation Categories
   
   * [Sketch Plugins](https://designcode.io/sketch-plugins)
 
+  * [Krista make text and vector awesome](https://krita.org/download/krita-desktop/)
+
 #Online Courses
 
   * [Law of Interface Design](https://courses.platzi.com/courses/laws-of-interface-design/)
@@ -690,7 +694,7 @@ Animation Categories
   * [the only ux reading list ever](https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.65zsj3nxc)
 
   * [Top 10 UI Design Resources](https://medium.mybridge.co/top-10-ui-design-resources-that-make-designers-life-easier-d5cd0d789959#.kd49b23gs)
-  
+
 # Boiler Plate
 - [App Landing Page](https://github.com/joshbuchea/awesome-app-landing-page)
 
