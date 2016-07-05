@@ -51,6 +51,8 @@ MIT
 
 - [Hack Design](https://hackdesign.org/)
 
+- [Discover Design](http://discovering.design/)
+
 - [Google Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=en)
 
 - [ux pin](https://uxpin.com/knowledge.html)
@@ -380,9 +382,9 @@ Layout categories
 #Usability
 Usability categories
 
-[Design principles](http://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-interface-design)
-[Usability Book](http://www.usabilitybok.org/principles-for-usable-design)
-[Reddit Usability](https://www.reddit.com/r/usability/)
+- [Design principles](http://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-interface-design)
+- [Usability Book](http://www.usabilitybok.org/principles-for-usable-design)
+- [Reddit Usability](https://www.reddit.com/r/usability/)
 
 ### Accessibility
 
@@ -654,8 +656,8 @@ Animation Categories
       - [Test](http://www.nngroup.com/articles/which-ux-research-methods/)
 
 # Ethics
-[Time well spent](http://timewellspent.io/)
-[Dark patterns.org](http://darkpatterns.org/)
+- [Time well spent](http://timewellspent.io/)
+- [Dark patterns.org](http://darkpatterns.org/)
 
 #Other Software / Tools / Resources
 
@@ -695,8 +697,16 @@ Animation Categories
 
   * [Top 10 UI Design Resources](https://medium.mybridge.co/top-10-ui-design-resources-that-make-designers-life-easier-d5cd0d789959#.kd49b23gs)
 
+# Hidden Gems
+- [Greensock](http://greensock.com/)
+
 # Boiler Plate
 - [App Landing Page](https://github.com/joshbuchea/awesome-app-landing-page)
+
+# Tutorials
+- [7 Rules for Creating Gorgeous UI (Part 2)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96#.8kvn02a7k)
+- [7 Rules for Creating Gorgeous UI (Part 1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.tk3hiznnl)
+- [Ensure High Contrast for Text Over Images](https://www.nngroup.com/articles/text-over-images/)
 
 #Jobs
 
