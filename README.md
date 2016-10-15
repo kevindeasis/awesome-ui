@@ -45,6 +45,43 @@ MIT
 
 
 #UI-UX Ultimate Guides
+
+- [UX StackExchange](https://ux.stackexchange.com/questions?sort=votes)
+
+- [Must Read UI Books](https://ux.stackexchange.com/questions/74/the-must-read-user-interface-book)
+
+- [52 Weeks of UX](http://52weeksofux.com/tagged/week-1)
+
+- [HackDesign](https://hackdesign.org/lessons)
+
+- [GoodUI](http://asktog.com/menus/designMenu.html)
+
+- [Brown University CS 1300: User Interfaces and User Experience](http://cs.brown.edu/courses/csci1300/)
+
+- [Design of Everyday Things by Donald Norman](https://archive.org/details/DesignOfEverydayThings)
+
+- [Bill Buxton, Input Manuscript](http://www.billbuxton.com/inputManuscript.html)
+
+- [SideBar.IO](http://sidebar.io/)
+
+- [AskTog](http://asktog.com/)
+
+- [AskTog: First Principles of Interaction Design (Revised & Expanded)](http://asktog.com/atc/principles-of-interaction-design/)
+
+- [AskTog: DesignMenu](http://asktog.com/menus/designMenu.html)
+
+- [SoundCloud Podcast, Lean Startup: Combining User - Centered Design & Lean Startup To Build Better Products](https://soundcloud.com/lean-startup/4-season-3-combining-user-centered-design-lean-startup-to-build-better-products?in=lean-startup/sets/lean-startup-webcasts)
+
+- [About Face, Essentials of Interaction Design PDF](http://feiramoderna.net/download/pos-positivo/COOPER-Alan/About_Face_3-The_Essentials_of_Interaction_Design.pdf)
+
+- [The Vignelli Canon](http://www.vignelli.com/canon.pdf)
+
+- [Magic Ink](http://worrydream.com/MagicInk/)
+
+- [Bill Buxton - Sketching User Experiences](http://www.vignelli.com/canon.pdf)
+
+- [Day 2 Workshop of Sketching User Experiences the Workshop Nicolai Marquardt](https://www.medien.ifi.lmu.de/lehre/ss14/id/Day%202%20Sketching%20IxD.pdf)
+
 - [Google Material Design](https://www.google.com/design/spec/material-design/introduction.html)
 
 - [Design Code](https://designcode.io/)
@@ -699,6 +736,15 @@ Animation Categories
 
 # Hidden Gems
 - [Greensock](http://greensock.com/)
+
+# Books
+- [Dont Make me Think](https://www.amazon.com/dp/0321344758)
+
+- [Micro Interactions](http://microinteractions.com/about-the-book/)
+
+- [Building Better Products](http://rosenfeldmedia.com/books/build-better-products/)
+
+- [Reading List by Kevin Hale](https://www.amazon.com/gp/richpub/listmania/fullview/R18EQHHM74IXPQ/ref=cm_lm_byauthor_title_full?&tag=rnwap-20)
 
 # Boiler Plate
 - [App Landing Page](https://github.com/joshbuchea/awesome-app-landing-page)
