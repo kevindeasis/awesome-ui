@@ -189,6 +189,8 @@ MIT
 
 ### Colors
 
+  * [Tobias Van Schneider unique color combinations](http://www.vanschneider.com/colors/)
+
   * [Color Contrast](https://www.viget.com/articles/color-contrast)
 
   * [TNW: Emotions with Colour](http://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/)
