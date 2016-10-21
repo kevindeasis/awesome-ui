@@ -52,6 +52,10 @@ MIT
 
 - [52 Weeks of UX](http://52weeksofux.com/tagged/week-1)
 
+- [Intuit Harmony Guide](http://harmony.intuit.com/)
+
+- [Facebook Design](http://facebook.design/)
+
 - [HackDesign](https://hackdesign.org/lessons)
 
 - [GoodUI](http://asktog.com/menus/designMenu.html)
