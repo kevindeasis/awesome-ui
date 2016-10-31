@@ -48,6 +48,8 @@ MIT
 
 - [UX StackExchange](https://ux.stackexchange.com/questions?sort=votes)
 
+- [UX Myths](http://uxmyths.com/)
+
 - [Must Read UI Books](https://ux.stackexchange.com/questions/74/the-must-read-user-interface-book)
 
 - [52 Weeks of UX](http://52weeksofux.com/tagged/week-1)
