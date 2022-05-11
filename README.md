@@ -14,7 +14,7 @@ MIT
 
 # Medium
 [The medium blog post is here](https://medium.com/free-stuff/500-curated-design-to-learn-ui-ux-resource-list-2ca7c857adbd#.pup0ub371)
-##Other list of awesome free stuff
+## Other list of awesome free stuff
 [Is Here](https://medium.com/free-stuff)
 
 
@@ -44,7 +44,7 @@ MIT
 16. [Jobs](https://github.com/kevindeasis/awesome-ui#jobs)
 
 
-#UI-UX Ultimate Guides
+# UI-UX Ultimate Guides
 
 - [UX StackExchange](https://ux.stackexchange.com/questions?sort=votes)
 
@@ -127,7 +127,7 @@ MIT
 - [eight shapes ](https://medium.com/eightshapes-llc)
 
 
-#Prototyping Tools
+# Prototyping Tools
   * [Pixate](http://www.pixate.com/)
 
   * [Design CC / Adobe Comet](http://www.adobe.com/products/experience-design.html)
@@ -159,7 +159,7 @@ MIT
   * [Krista make text and vector awesome w/ animation](https://krita.org/download/krita-desktop/)
 
 
-#Wireframing Tools
+# Wireframing Tools
 
   * [Mockplus](http://www.mockplus.com/)
 
@@ -190,7 +190,7 @@ MIT
 
 
 
-#Style
+# Style
 >Style categories
 
 ### Colors
@@ -209,7 +209,7 @@ MIT
 
   * [DFF: Color theory](http://www.designforfounders.com/color-theory/)
 
-  ###Icons
+  ### Icons
 
   * [GMD: Icons](https://www.google.com/design/spec/style/icons.html#)
 
@@ -217,7 +217,7 @@ MIT
 
   * [Tuts+](http://design.tutsplus.com/articles/10-top-tips-for-creating-awesome-icons--cms-25538)
 
-  ###Stock Icons
+  ### Stock Icons
 
   * [Fontello: Icon fonts generator.](http://fontello.com/)
 
@@ -251,11 +251,11 @@ MIT
 
   * [The Noun Project: Thousands of glyph icons from different artists.](http://thenounproject.com/)
 
-  ###Imagery
+  ### Imagery
 
   * [GMD: imagery](https://www.google.com/design/spec/style/imagery.html)
 
-  ####Stock Photos
+  #### Stock Photos
 
   * [Thestocks](thestocks.im)
 
@@ -335,7 +335,7 @@ MIT
 
   * [Raumrot: Free high-resolution picture.](http://www.raumrot.com/10/)
 
-  ###Typography
+  ### Typography
 
   * [GMD: typography](https://www.google.com/design/spec/style/typography.html)
 
@@ -384,47 +384,47 @@ MIT
     * [google fonts file](https://github.com/google/fonts)
     * [install google font files](https://github.com/qrpike/Web-Font-Load)
 
-  ###Writing
+  ### Writing
 
   * [GMD: writing](https://www.google.com/design/spec/style/writing.html)
 
-#Layout
+# Layout
 Layout categories
 
-###Principles
+### Principles
 
   * [GMD: layout principles](https://www.google.com/design/spec/layout/principles.html)
 
-  ###Units & Measurement
+  ### Units & Measurement
 
   * [GMD: Units & Measurement](https://www.google.com/design/spec/layout/units-measurements.html)
 
-  ###Metrics & Keylines
+  ### Metrics & Keylines
 
   * [GMD: Metrics & keylines](https://www.google.com/design/spec/layout/metrics-keylines.html)
 
-  ###Structure
+  ### Structure
 
   * [GMD: structure](https://www.google.com/design/spec/layout/structure.html)
 
-  ###Responsive UI
+  ### Responsive UI
 
   * [GMD: responsive ui](https://www.google.com/design/spec/layout/responsive-ui.html)
 
-  ###Split Screen
+  ### Split Screen
 
   * [GMD: split screen](https://www.google.com/design/spec/layout/split-screen.html)
 
 
-#Components
+# Components
 
   * [GMD](https://www.google.com/design/spec/components/bottom-navigation.html#)
 
-#Patterns
+# Patterns
 
   * [GMD](https://www.google.com/design/spec/patterns/data-formats.html)
 
-#Usability
+# Usability
 Usability categories
 
 - [Design principles](http://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-interface-design)
@@ -439,14 +439,14 @@ Usability categories
 
  [gmd](https://www.google.com/design/spec/usability/bidirectionality.html)
 
-#Animation
+# Animation
 Animation Categories
 
 ### Drawing
 
   [Draw Space: Drawing] (https://www.drawspace.com/lessons)
 
-###UX Design
+### UX Design
 
   * [Smashing Magazine](https://www.smashingmagazine.com/2015/05/functional-ux-design-animations/)
 
@@ -460,7 +460,7 @@ Animation Categories
 
   * [ux psychology](http://thehipperelement.com/post/87574750438/ux-crash-course-user-psychology)
 
-#Resources
+# Resources
 
   * [growth supply](http://growth.supply/free/design-code/)
 
@@ -494,7 +494,7 @@ Animation Categories
 
   * [Krista make text and vector awesome](https://krita.org/download/krita-desktop/)
 
-#Online Courses
+# Online Courses
 
   * [Law of Interface Design](https://courses.platzi.com/courses/laws-of-interface-design/)
 
@@ -543,7 +543,7 @@ Animation Categories
   * [Udacity](www.udacity.com)
 
 
-#Podcasts
+# Podcasts
 
   * [Design Matters](https://itunes.apple.com/podcast/id328074695)
 
@@ -573,7 +573,7 @@ Animation Categories
 
   * [The Freelance Web](www.thefreelanceweb.com)
 
-#Communities
+# Communities
 
   * [eventbrite](https://www.eventbrite.ca/)
 
@@ -594,7 +594,7 @@ Animation Categories
   * [Layervault](https://news.layervault.com/)
 
 
-#Inspiration
+# Inspiration
 
   * [MatrialUp: Daily material design inspiration.](http://www.materialup.com/)
 
@@ -660,7 +660,7 @@ Animation Categories
   * [UX checklist repo](https://github.com/uxchecklist/uxchecklist.github.io)
   * [uxchecklist](https://uxchecklist.github.io/)
 
-#Planning
+# Planning
 
   * Planning
     1. Research
@@ -704,7 +704,7 @@ Animation Categories
 - [Time well spent](http://timewellspent.io/)
 - [Dark patterns.org](http://darkpatterns.org/)
 
-#Other Software / Tools / Resources
+# Other Software / Tools / Resources
 
   * [Pixlr](https://pixlr.com/)
 
@@ -762,6 +762,6 @@ Animation Categories
 - [7 Rules for Creating Gorgeous UI (Part 1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.tk3hiznnl)
 - [Ensure High Contrast for Text Over Images](https://www.nngroup.com/articles/text-over-images/)
 
-#Jobs
+# Jobs
 
   * [Dribbble Jobs](www.dribbble.com/jobs)
