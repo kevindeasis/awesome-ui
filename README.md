@@ -249,6 +249,8 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
   * [Ico Moon: 4000+ free vector icons, icon generator.](https://icomoon.io/)
 
   * [The Noun Project: Thousands of glyph icons from different artists.](http://thenounproject.com/)
+  
+  * [Icons8: Thousands of free icons in multiple styles, searchable and customizable.](https://icons8.com/icons)
 
   ###Imagery
 
