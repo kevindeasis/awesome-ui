@@ -344,6 +344,8 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [Typography Commentary](http://typographica.org/)
 
+  * [FontsWiki: Searchable font catalog with free-alternative guides and real-world fonts-in-use examples.](https://fontswiki.com/)
+
   * [TypeGenius: Find the perfect font combo for your next project.](http://www.typegenius.com/)
 
   * [FontFaceNinja: Browser extension to find the web fonts a site uses.](http://www.fontface.ninja/)
