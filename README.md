@@ -167,6 +167,8 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
   * [Balsamiq](http://balsamiq.com/products/mockups/)
 
   * [AdobeCC](http://www.adobe.com/uk/products/photoshop)
+
+  * [igly.ai](https://igly.ai): AI image editing platform with background removal, inpainting, upscaling, and generative fill.
   
   * [Adobe Spark](https://spark.adobe.com/) 
 
