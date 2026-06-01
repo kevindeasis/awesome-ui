@@ -204,6 +204,7 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [SMW: Color Psychology](http://socialmediaweek.org/blog/2014/08/use-color-psychology-web-design-projects/)
 
+  * [Mini-Tools.uk Image Color Picker](https://mini-tools.uk/color-picker) - Pick colors from images or screenshots, crop small areas, and copy HEX, RGB or HSL values.
   * [GMD: Color](https://www.google.com/design/spec/style/color.html)
 
   * [DFF: Color theory](http://www.designforfounders.com/color-theory/)
