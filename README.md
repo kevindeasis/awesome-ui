@@ -340,6 +340,8 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [Font-Pairing](http://www.designforfounders.com/font-pairing/)
 
+  * [Cursive Generation Font Pairing Assistant: Free browser tool for comparing script, heading and body font combinations.](https://cursive-generation.com/font-pairing-assistant)
+
   * [Typography Intro](https://buscandotrazos.wordpress.com/2012/08/27/a-brief-introduction-to-typography/)
 
   * [Typography Commentary](http://typographica.org/)
