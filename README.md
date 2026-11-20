@@ -706,6 +706,8 @@ Animation Categories
 #Other Software / Tools / Resources
 
   * [Pixlr](https://pixlr.com/)
+  * [PixelArtHive](https://pixelarthive.com/) - Free image-to-pixel-art conversion and pixel art upscaling, processed locally in the browser.
+
 
   * [Uxdesign](http://uxdesign.cc/ux-tools/)
 
