@@ -157,6 +157,8 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [Krista make text and vector awesome w/ animation](https://krita.org/download/krita-desktop/)
 
+  * [Kite - collaborative design with AI agents via MCP](https://kite.new/)
+
 
 #Wireframing Tools
 
