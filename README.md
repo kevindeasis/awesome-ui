@@ -1,6 +1,10 @@
-# Awesome-UI [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
+# Awesome-UI [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 > A curated list of awesome UI/UX, and Design
 Resource for everything related to UI / UX. Contributions are welcome, just do a pull request!
+
+## Featured
+
+- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - All your terminals on one canvas in your browser. Run several coding agents side by side and see at a glance which one is waiting for you, which step each is on, and what each has written for you. Runs on your own computer.
 
 
 ## Trending
@@ -13,16 +17,18 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
 # Medium
 [The medium blog post is here](https://medium.com/free-stuff/500-curated-design-to-learn-ui-ux-resource-list-2ca7c857adbd#.pup0ub371)
-##Other list of awesome free stuff
+## Other list of awesome free stuff
 [Is Here](https://medium.com/free-stuff)
 
 
 # Table of Contents
+0. [Featured](https://github.com/thirstyeggplant/awesome-ui#featured)
 1. [Prototyping Tools](https://github.com/thirstyeggplant/awesome-ui#prototyping-tools)
+   + [AI Design Tools](https://github.com/thirstyeggplant/awesome-ui#ai-design-tools)
 2. [Wireframing Tools](https://github.com/thirstyeggplant/awesome-ui#wireframing-tools)
 3. [Style](https://github.com/thirstyeggplant/awesome-ui#style)
    + [Colors](https://github.com/thirstyeggplant/awesome-ui#colors)
-   + [Icons](https://github.com/thirstyeggplant/awesome-ui#colors)
+   + [Icons](https://github.com/thirstyeggplant/awesome-ui#icons)
      - [Stock Icons](https://github.com/thirstyeggplant/awesome-ui#stock-icons)
    + [Imagery](https://github.com/thirstyeggplant/awesome-ui#imagery)
      - [Stock Photo](https://github.com/thirstyeggplant/awesome-ui#stock-photos)
@@ -30,6 +36,8 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
    + [Writing](https://github.com/thirstyeggplant/awesome-ui#writing)
 4. [Layout](https://github.com/thirstyeggplant/awesome-ui#layout)
 5. [Components](https://github.com/thirstyeggplant/awesome-ui#components)
+   + [Design Systems](https://github.com/thirstyeggplant/awesome-ui#design-systems)
+   + [Component Libraries](https://github.com/thirstyeggplant/awesome-ui#component-libraries)
 6. [Patterns](https://github.com/thirstyeggplant/awesome-ui#patterns)
 7. [Usability](https://github.com/thirstyeggplant/awesome-ui#usability)
 8. [Animation](https://github.com/thirstyeggplant/awesome-ui#animation)
@@ -43,7 +51,7 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 16. [Jobs](https://github.com/thirstyeggplant/awesome-ui#jobs)
 
 
-#UI-UX Ultimate Guides
+# UI-UX Ultimate Guides
 
 - [UX StackExchange](https://ux.stackexchange.com/questions?sort=votes)
 
@@ -126,22 +134,15 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 - [eight shapes ](https://medium.com/eightshapes-llc)
 
 
-#Prototyping Tools
-  * [Pixate](http://www.pixate.com/)
+# Prototyping Tools
 
   * [Design CC / Adobe Comet](http://www.adobe.com/products/experience-design.html)
-
-  * [Invision Sketch](https://www.invisionapp.com/sketch-prototyping)
 
   * [Proto](https://proto.io/)
 
   * [Marvelapp](https://marvelapp.com/)
 
-  * [Form](http://www.relativewave.com/form/)
-
-  * [Framer](http://framerjs.com/)
-
-  * [Macaw](http://macaw.co/)
+  * [Framer](https://www.framer.com/)
 
   * [Hype 3.5](http://tumult.com/hype/)
 
@@ -153,12 +154,36 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [froont](http://froont.com/)
 
-  * [webflow](http://webflow.com)
+  * [Krita](https://krita.org/)
 
-  * [Krista make text and vector awesome w/ animation](https://krita.org/download/krita-desktop/)
+  * [Figma](https://www.figma.com/) - Collaborative interface design, prototyping and Dev Mode handoff.
+
+  * [Penpot](https://penpot.app/) - Open-source design and prototyping, built on web standards.
+
+  * [ProtoPie](https://www.protopie.io/) - High-fidelity interactive prototypes with sensors and variables.
+
+  * [Rive](https://rive.app/) - Interactive, state-driven animations that ship to web and native.
+
+  * [Spline](https://spline.design/) - Collaborative 3D design for the web.
+
+### AI Design Tools
+
+  * [Figma Make](https://www.figma.com/make/) - Turn prompts and designs into working prototypes.
+
+  * [v0](https://v0.app/) - Generate React + Tailwind UI from a prompt or screenshot.
+
+  * [Google Stitch](https://stitch.withgoogle.com/) - Generate UI designs and front-end code from text or images.
+
+  * [Lovable](https://lovable.dev/) - Build full web apps from a conversation.
+
+  * [Bolt.new](https://bolt.new/) - Prompt, run and edit full-stack apps in the browser.
+
+  * [Uizard](https://uizard.io/) - AI-assisted wireframes and mockups from sketches or text.
+
+  * [Relume](https://www.relume.io/) - AI sitemaps and wireframes for marketing sites.
 
 
-#Wireframing Tools
+# Wireframing Tools
 
   * [Mockplus](http://www.mockplus.com/)
 
@@ -168,7 +193,7 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [AdobeCC](http://www.adobe.com/uk/products/photoshop)
   
-  * [Adobe Spark](https://spark.adobe.com/) 
+  * [Adobe Express](https://www.adobe.com/express/)
 
   * [Mockflow](www.mockflow.com)
 
@@ -178,18 +203,22 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [Wireframe.cc](ww.wireframe.cc)
 
-  * [Mockingbird](www.gomockingbird.com)
-
   * [Axure](http://www.axure.com/)
 
   * [Flair Builder](http://flairbuilder.co)
 
-  * [UX Pin](http://uxpin.com)
+  * [UX Pin](https://www.uxpin.com/)
+
+  * [Whimsical](https://whimsical.com/) - Fast wireframes, flowcharts and mind maps.
+
+  * [FigJam](https://www.figma.com/figjam/) - Online whiteboard for flows, sketches and workshops.
+
+  * [Excalidraw](https://excalidraw.com/) - Hand-drawn style open-source whiteboard.
 
 
 
 
-#Style
+# Style
 >Style categories
 
 ### Colors
@@ -208,7 +237,19 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [DFF: Color theory](http://www.designforfounders.com/color-theory/)
 
-  ###Icons
+  * [Coolors](https://coolors.co/) - Fast color palette generator.
+
+  * [Realtime Colors](https://www.realtimecolors.com/) - Preview a palette and fonts on a real site layout.
+
+  * [Radix Colors](https://www.radix-ui.com/colors) - Accessible color scales with light and dark modes.
+
+  * [OKLCH Color Picker](https://oklch.com/) - Pick perceptually uniform colors for modern CSS.
+
+  * [Tailwind CSS Colors](https://tailwindcss.com/docs/colors) - The default Tailwind palette.
+
+  * [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) - Check WCAG contrast ratios.
+
+  ### Icons
 
   * [GMD: Icons](https://www.google.com/design/spec/style/icons.html#)
 
@@ -216,17 +257,17 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [Tuts+](http://design.tutsplus.com/articles/10-top-tips-for-creating-awesome-icons--cms-25538)
 
-  ###Stock Icons
+  ### Stock Icons
 
   * [Fontello: Icon fonts generator.](http://fontello.com/)
 
   * [Flat Icon: A search engine for 16000+ glyph vector icons.](http://www.flaticon.com/)
 
-  * [Font Awesome: The iconic font and CSS toolkit.](http://fortawesome.github.io/Font-Awesome/)
+  * [Font Awesome: The iconic font and CSS toolkit.](https://fontawesome.com/)
 
   * [Glyphsearch: Search for icons from other icon databases.](http://glyphsearch.com/)
 
-  * [Material Design Icons: 750 Free open-source glyphs by Google.](https://github.com/google/material-design-icons/releases/tag/1.0.0)
+  * [Material Symbols: Google's variable icon font.](https://fonts.google.com/icons)
 
   * [Icon Finder: Free icon section of the website.](https://www.iconfinder.com/free_icons)
 
@@ -242,29 +283,37 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [Perfect Icons: A social icon creation tool.](http://perfecticons.com/)
 
-  * [Material Design Icons: 750 Free open-source glyphs by Google.](https://github.com/google/material-design-icons/releases/tag/1.0.0)
-
   * [Icon Sweets: 60 free vector Photoshop icons.](http://iconsweets.com/)
 
   * [Ico Moon: 4000+ free vector icons, icon generator.](https://icomoon.io/)
 
-  * [The Noun Project: Thousands of glyph icons from different artists.](http://thenounproject.com/)
+  * [The Noun Project: Thousands of glyph icons from different artists.](https://thenounproject.com/)
 
-  ###Imagery
+  * [Lucide: Clean, consistent open-source icons.](https://lucide.dev/)
+
+  * [Heroicons: SVG icons by the makers of Tailwind CSS.](https://heroicons.com/)
+
+  * [Phosphor Icons: Flexible icon family in six weights.](https://phosphoricons.com/)
+
+  * [Tabler Icons: 5000+ free MIT-licensed SVG icons.](https://tabler.io/icons)
+
+  * [Iconify: One API for 200,000+ open-source icons.](https://iconify.design/)
+
+  ### Imagery
 
   * [GMD: imagery](https://www.google.com/design/spec/style/imagery.html)
 
-  ####Stock Photos
+  #### Stock Photos
 
-  * [Thestocks](thestocks.im)
+  * [Thestocks](http://thestocks.im/)
 
   * [Stock Up](http://www.sitebuilderreport.com/stock-up)
 
-  * [Pexels](http://www.pexels.com/)
+  * [Pexels](https://www.pexels.com/)
 
   * [All The Free Stock: Free stock images, icons, and videos.](http://allthefreestock.com/)
 
-  * [Unsplash: Free (do whatever you want) high-resolution photos.](http://unsplash.com/)
+  * [Unsplash: Free (do whatever you want) high-resolution photos.](https://unsplash.com/)
 
   * [Splashbase: Search & discover free, hi res photos & videos.](http://www.splashbase.co/)
 
@@ -290,7 +339,7 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [Picography: Free hi-resolution photos.](http://picography.co/)
 
-  * [Pixabay: Free high quality images.](http://pixabay.com/)
+  * [Pixabay: Free high quality images.](https://pixabay.com/)
 
   * [Magdeleine: A free high-resolution photo every day.](http://magdeleine.co/)
 
@@ -334,7 +383,7 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [Raumrot: Free high-resolution picture.](http://www.raumrot.com/10/)
 
-  ###Typography
+  ### Typography
 
   * [GMD: typography](https://www.google.com/design/spec/style/typography.html)
 
@@ -348,7 +397,15 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [FontFaceNinja: Browser extension to find the web fonts a site uses.](http://www.fontface.ninja/)
 
-  * [Google Fonts: Free, open-source fonts optimized for the web.](http://www.google.com/fonts)
+  * [Google Fonts: Free, open-source fonts optimized for the web.](https://fonts.google.com/)
+
+  * [Fontshare: Free, quality fonts from Indian Type Foundry.](https://www.fontshare.com/)
+
+  * [Typescale: Visual type scale calculator.](https://typescale.com/)
+
+  * [Utopia: Fluid type and space scales with CSS clamp().](https://utopia.fyi/)
+
+  * [Inter: A typeface designed for screens.](https://rsms.me/inter/)
 
   * [Font-to-width: Fit pieces of text snugly within their containers.](http://font-to-width.com/)
 
@@ -361,8 +418,6 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
   * [1001 Free Fonts: A huge selection of free fonts.](http://www.1001freefonts.com/)
 
   * [FontPark: The web’s largest archive of free fonts.](http://www.fontpark.net/en/)
-
-  * [Typography Resource: Google Fonts](https://www.google.com/fonts)
 
   * [Inspiration: type wolf](https://www.typewolf.com/)
 
@@ -383,69 +438,128 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
     * [google fonts file](https://github.com/google/fonts)
     * [install google font files](https://github.com/qrpike/Web-Font-Load)
 
-  ###Writing
+  ### Writing
 
   * [GMD: writing](https://www.google.com/design/spec/style/writing.html)
 
-#Layout
+  * [Content Design London: Readability Guidelines](https://readabilityguidelines.co.uk/)
+
+  * [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
+
+# Layout
 Layout categories
 
-###Principles
+### Principles
 
   * [GMD: layout principles](https://www.google.com/design/spec/layout/principles.html)
 
-  ###Units & Measurement
+  ### Units & Measurement
 
   * [GMD: Units & Measurement](https://www.google.com/design/spec/layout/units-measurements.html)
 
-  ###Metrics & Keylines
+  ### Metrics & Keylines
 
   * [GMD: Metrics & keylines](https://www.google.com/design/spec/layout/metrics-keylines.html)
 
-  ###Structure
+  ### Structure
 
   * [GMD: structure](https://www.google.com/design/spec/layout/structure.html)
 
-  ###Responsive UI
+  ### Responsive UI
 
   * [GMD: responsive ui](https://www.google.com/design/spec/layout/responsive-ui.html)
 
-  ###Split Screen
+  * [web.dev: Learn Responsive Design](https://web.dev/learn/design/)
+
+  * [Every Layout](https://every-layout.dev/) - Layout primitives built on modern CSS.
+
+  * [Container Queries (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries)
+
+  ### Split Screen
 
   * [GMD: split screen](https://www.google.com/design/spec/layout/split-screen.html)
 
 
-#Components
+# Components
 
   * [GMD](https://www.google.com/design/spec/components/bottom-navigation.html#)
 
-#Patterns
+  * [Component Gallery](https://component.gallery/) - Components from real design systems, side by side.
+
+### Design Systems
+
+  * [Material Design 3](https://m3.material.io/)
+
+  * [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+
+  * [Microsoft Fluent 2](https://fluent2.microsoft.design/)
+
+  * [IBM Carbon](https://carbondesignsystem.com/)
+
+  * [Shopify Polaris](https://polaris.shopify.com/)
+
+  * [GitHub Primer](https://primer.style/)
+
+  * [Atlassian Design System](https://atlassian.design/)
+
+  * [GOV.UK Design System](https://design-system.service.gov.uk/)
+
+  * [Storybook](https://storybook.js.org/) - Build, document and test UI components in isolation.
+
+### Component Libraries
+
+  * [shadcn/ui](https://ui.shadcn.com/) - Copy-in components built on Radix and Tailwind.
+
+  * [Radix UI](https://www.radix-ui.com/) - Unstyled, accessible React primitives.
+
+  * [React Aria](https://react-spectrum.adobe.com/react-aria/) - Accessible UI primitives from Adobe.
+
+  * [Headless UI](https://headlessui.com/) - Unstyled components for React and Vue.
+
+  * [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework.
+
+  * [Tailwind Plus](https://tailwindcss.com/plus) - Official Tailwind components and templates.
+
+  * [daisyUI](https://daisyui.com/) - Component classes for Tailwind CSS.
+
+  * [Mantine](https://mantine.dev/) - Full-featured React component library.
+
+  * [MUI](https://mui.com/) - Material Design components for React.
+
+# Patterns
 
   * [GMD](https://www.google.com/design/spec/patterns/data-formats.html)
 
-#Usability
+# Usability
 Usability categories
 
 - [Design principles](http://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-interface-design)
 - [Usability Book](http://www.usabilitybok.org/principles-for-usable-design)
 - [Reddit Usability](https://www.reddit.com/r/usability/)
+- [Laws of UX](https://lawsofux.com/)
+- [NN/g 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 ### Accessibility
 
- [gmd](https://www.google.com/design/spec/usability/accessibility.html)
+ - [gmd](https://www.google.com/design/spec/usability/accessibility.html)
+ - [WCAG 2.2 Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/)
+ - [The A11Y Project](https://www.a11yproject.com/)
+ - [axe DevTools](https://www.deque.com/axe/devtools/) - Automated accessibility testing in the browser.
+ - [WebAIM](https://webaim.org/)
+ - [Inclusive Components](https://inclusive-components.design/)
 
 ### Bidirectionality
 
  [gmd](https://www.google.com/design/spec/usability/bidirectionality.html)
 
-#Animation
+# Animation
 Animation Categories
 
 ### Drawing
 
-  [Draw Space: Drawing] (https://www.drawspace.com/lessons)
+  * [Draw Space: Drawing](https://www.drawspace.com/lessons)
 
-###UX Design
+### UX Design
 
   * [Smashing Magazine](https://www.smashingmagazine.com/2015/05/functional-ux-design-animations/)
 
@@ -459,7 +573,21 @@ Animation Categories
 
   * [ux psychology](http://thehipperelement.com/post/87574750438/ux-crash-course-user-psychology)
 
-#Resources
+### Libraries
+
+  * [Motion](https://motion.dev/) - Animation library for React, JavaScript and Vue (formerly Framer Motion).
+
+  * [GSAP](https://gsap.com/) - Professional-grade JavaScript animation, now free for everyone.
+
+  * [Lottie](https://airbnb.io/lottie/) - Render After Effects animations natively.
+
+  * [Rive](https://rive.app/) - Interactive runtime animations.
+
+  * [AutoAnimate](https://auto-animate.formkit.com/) - Zero-config transitions in one line.
+
+  * [View Transitions API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
+
+# Resources
 
   * [growth supply](http://growth.supply/free/design-code/)
 
@@ -491,15 +619,13 @@ Animation Categories
   
   * [Sketch Plugins](https://designcode.io/sketch-plugins)
 
-  * [Krista make text and vector awesome](https://krita.org/download/krita-desktop/)
+  * [Figma Community](https://www.figma.com/community) - Free files, plugins and UI kits.
 
-#Online Courses
+  * [Refactoring UI](https://www.refactoringui.com/) - Practical design tactics for developers.
+
+# Online Courses
 
   * [Law of Interface Design](https://courses.platzi.com/courses/laws-of-interface-design/)
-
-  * [Steer](www.steer.me)
-
-  * [WebPlatform](http://www.webplatform.org/)
 
   * [Learn to Design a Better Interface](https://courses.platzi.com/courses/interface-design-startups/)
 
@@ -515,34 +641,33 @@ Animation Categories
 
   * [Codecademy — Learn to code interactively, for free.](http://www.codecademy.com/)
 
-  * [Codeplace.com — Learn how to code from scratch. previously Stuk.io](http://codeplace.com/)
-
   * [Udacity — Earn a Nanodegree recognized by industry leaders.](https://www.udacity.com/)
-
-  * [Learnable — The best way to learn web development.](https://learnable.com/)
-
-  * [Code School — Learn to code by doing.](https://www.codeschool.com/)
 
   * [Thinkful — Advance your career with 1-on-1 mentorship.](https://www.thinkful.com/)
 
   * [Code.org — Start learning today with easy tutorials.](https://code.org/)
 
-  * [Code School](www.codeschool.com)
+  * [Treehouse](https://teamtreehouse.com/)
 
-  * [Treehouse](www.teamtreehouse.com)
+  * [freeCodeCamp](https://www.freecodecamp.org/)
 
-  * [Freecodecamp](https://www.freecodecamp.com/)
-
-  * [Lynda](www.lynda.com)
+  * [LinkedIn Learning (formerly Lynda)](https://www.linkedin.com/learning/)
 
   * [Code.org](http://code.org/)
 
-  * [Codeacademy](www.codecademy.com)
 
-  * [Udacity](www.udacity.com)
+  * [Google UX Design Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
+
+  * [Interaction Design Foundation](https://www.interaction-design.org/)
+
+  * [Figma Learn](https://help.figma.com/hc/en-us/categories/360002051613)
+
+  * [CSS for JavaScript Developers by Josh Comeau](https://css-for-js.dev/)
+
+  * [Frontend Masters](https://frontendmasters.com/)
 
 
-#Podcasts
+# Podcasts
 
   * [Design Matters](https://itunes.apple.com/podcast/id328074695)
 
@@ -572,13 +697,17 @@ Animation Categories
 
   * [The Freelance Web](www.thefreelanceweb.com)
 
-#Communities
+# Communities
 
   * [eventbrite](https://www.eventbrite.ca/)
 
   * [meetup](www.meetup.com/)
 
   * [Designer News](https://www.designernews.co/)
+
+  * [ADPList](https://adplist.org/) - Free mentorship from designers worldwide.
+
+  * [Figma Forum](https://forum.figma.com/)
 
   * [UXstackexchange](http://ux.stackexchange.com/)
 
@@ -590,10 +719,8 @@ Animation Categories
 
   * [Designers Talk](http://www.designerstalk.com/forums/)
 
-  * [Layervault](https://news.layervault.com/)
 
-
-#Inspiration
+# Inspiration
 
   * [MatrialUp: Daily material design inspiration.](http://www.materialup.com/)
 
@@ -633,6 +760,16 @@ Animation Categories
 
   * [Niice: A search engine with taste.](https://niice.co/)
 
+  * [Mobbin: Library of real app and web screens and flows.](https://mobbin.com/)
+
+  * [Refero: Searchable UI design references.](https://refero.design/)
+
+  * [Godly: Astronomically good web design inspiration.](https://godly.website/)
+
+  * [Page Flows: Recorded user flows from top products.](https://pageflows.com/)
+
+  * [Lapa Ninja: Landing page inspiration.](https://www.lapa.ninja/)
+
   * [r/web_design](https://www.reddit.com/r/web_design)
 
   * [r/userexperience](https://www.reddit.com/r/userexperience)
@@ -659,7 +796,7 @@ Animation Categories
   * [UX checklist repo](https://github.com/uxchecklist/uxchecklist.github.io)
   * [uxchecklist](https://uxchecklist.github.io/)
 
-#Planning
+# Planning
 
   * Planning
     1. Research
@@ -700,20 +837,16 @@ Animation Categories
       - [Test](http://www.nngroup.com/articles/which-ux-research-methods/)
 
 # Ethics
-- [Time well spent](http://timewellspent.io/)
-- [Dark patterns.org](http://darkpatterns.org/)
+- [Deceptive Design (formerly darkpatterns.org)](https://www.deceptive.design/)
+- [Center for Humane Technology](https://www.humanetech.com/)
 
-#Other Software / Tools / Resources
+# Other Software / Tools / Resources
 
   * [Pixlr](https://pixlr.com/)
 
   * [Uxdesign](http://uxdesign.cc/ux-tools/)
 
-  * [Now](https://www.invisionapp.com/now)
-
-  * [Do](https://www.invisionapp.com/do)
-
-  * [Sketch](https://www.sketchapp.com/)
+  * [Sketch](https://www.sketch.com/)
 
   * [Ninja mock](https://ninjamock.com/)
 
@@ -742,7 +875,7 @@ Animation Categories
   * [Top 10 UI Design Resources](https://medium.mybridge.co/top-10-ui-design-resources-that-make-designers-life-easier-d5cd0d789959#.kd49b23gs)
 
 # Hidden Gems
-- [Greensock](http://greensock.com/)
+- [GSAP (GreenSock)](https://gsap.com/)
 
 # Books
 - [Dont Make me Think](https://www.amazon.com/dp/0321344758)
@@ -750,6 +883,10 @@ Animation Categories
 - [Micro Interactions](http://microinteractions.com/about-the-book/)
 
 - [Building Better Products](http://rosenfeldmedia.com/books/build-better-products/)
+
+- [Refactoring UI](https://www.refactoringui.com/book)
+
+- [Laws of UX (O'Reilly)](https://lawsofux.com/book/)
 
 - [Reading List by Kevin Hale](https://www.amazon.com/gp/richpub/listmania/fullview/R18EQHHM74IXPQ/ref=cm_lm_byauthor_title_full?&tag=rnwap-20)
 
@@ -761,6 +898,10 @@ Animation Categories
 - [7 Rules for Creating Gorgeous UI (Part 1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.tk3hiznnl)
 - [Ensure High Contrast for Text Over Images](https://www.nngroup.com/articles/text-over-images/)
 
-#Jobs
+# Jobs
 
-  * [Dribbble Jobs](www.dribbble.com/jobs)
+  * [Dribbble Jobs](https://dribbble.com/jobs)
+
+  * [Wellfound (formerly AngelList Talent)](https://wellfound.com/)
+
+  * [Behance Jobs](https://www.behance.net/joblist)
