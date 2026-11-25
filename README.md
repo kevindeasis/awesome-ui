@@ -64,9 +64,7 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
 - [Must Read UI Books](https://ux.stackexchange.com/questions/74/the-must-read-user-interface-book)
 
-- [52 Weeks of UX](http://52weeksofux.com/tagged/week-1)
 
-- [Intuit Harmony Guide](http://harmony.intuit.com/)
 
 - [Facebook Design](http://facebook.design/)
 
@@ -92,11 +90,9 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
 - [About Face, Essentials of Interaction Design PDF](http://feiramoderna.net/download/pos-positivo/COOPER-Alan/About_Face_3-The_Essentials_of_Interaction_Design.pdf)
 
-- [The Vignelli Canon](http://www.vignelli.com/canon.pdf)
 
 - [Magic Ink](http://worrydream.com/MagicInk/)
 
-- [Bill Buxton - Sketching User Experiences](http://www.vignelli.com/canon.pdf)
 
 - [Day 2 Workshop of Sketching User Experiences the Workshop Nicolai Marquardt](https://www.medien.ifi.lmu.de/lehre/ss14/id/Day%202%20Sketching%20IxD.pdf)
 
@@ -118,11 +114,9 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
 - [Hack design](https://hackdesign.org/)
 
-- [zurb](http://zurb.com/university/past-lessons)
 
 - [ux-mag](http://uxmag.com/)
 
-- [ux booth](http://www.uxbooth.com/)
 
 - [nn group](https://www.nngroup.com/articles/)
 
@@ -137,6 +131,7 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 - [boxes and arrows](http://boxesandarrows.com/)
 
 - [eight shapes ](https://medium.com/eightshapes-llc)
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 
 
 # Prototyping Tools
@@ -286,7 +281,6 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
   * [Endless Icons: Free flat icons and creative stuff.](http://www.endlessicons.com/)
 
-  * [Perfect Icons: A social icon creation tool.](http://perfecticons.com/)
 
   * [Icon Sweets: 60 free vector Photoshop icons.](http://iconsweets.com/)
 
@@ -831,7 +825,6 @@ Animation Categories
     7. Finalise
       - [Finalise Layout](http://www.usability.gov/what-and-why/visual-design.html)
       - [Use of image and icons](http://www.nngroup.com/articles/icon-usability/)
-      - [Font Colours & Hierarchy](http://52weeksofux.com/post/443828775/visual-hierarchy)
     8. Delight
       - [Micro copy](http://www.smashingmagazine.com/2012/07/18/the-personality-layer/)
       - [Micro interactions](http://microinteractions.com/what-is-a-microinteraction/)
