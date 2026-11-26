@@ -4,7 +4,7 @@
 
 
 <!-- lang-bar -->
-**🔗 الموقع: [https://thirstyeggplant.github.io/awesome-ui/ar/](https://thirstyeggplant.github.io/awesome-ui/ar/)**
+🔗 **الموقع:** [https://thirstyeggplant.github.io/awesome-ui/ar/](https://thirstyeggplant.github.io/awesome-ui/ar/)
 
 🌐 [English](README.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português (BR)](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [हिन्दी](README.hi.md) · [বাংলা](README.bn.md) · [Bahasa Indonesia](README.id.md) · **العربية**
 <!-- /lang-bar -->

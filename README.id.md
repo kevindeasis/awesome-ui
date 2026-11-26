@@ -1,7 +1,7 @@
 # Awesome-UI [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 <!-- lang-bar -->
-**🔗 Situs web: [https://thirstyeggplant.github.io/awesome-ui/id/](https://thirstyeggplant.github.io/awesome-ui/id/)**
+🔗 **Situs web:** [https://thirstyeggplant.github.io/awesome-ui/id/](https://thirstyeggplant.github.io/awesome-ui/id/)
 
 🌐 [English](README.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português (BR)](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [हिन्दी](README.hi.md) · [বাংলা](README.bn.md) · **Bahasa Indonesia** · [العربية](README.ar.md)
 <!-- /lang-bar -->
