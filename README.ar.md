@@ -4,10 +4,12 @@
 
 
 <!-- lang-bar -->
-🌐 [English](README.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português (BR)](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [हिन्दी](README.hi.md) · [বাংলা](README.bn.md) · [Bahasa Indonesia](README.id.md) · **العربية** · 🔗 [الموقع](https://thirstyeggplant.github.io/awesome-ui/ar/)
+**🔗 الموقع: [https://thirstyeggplant.github.io/awesome-ui/ar/](https://thirstyeggplant.github.io/awesome-ui/ar/)**
+
+🌐 [English](README.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português (BR)](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [हिन्दी](README.hi.md) · [বাংলা](README.bn.md) · [Bahasa Indonesia](README.id.md) · **العربية**
 <!-- /lang-bar -->
 
-> هذه ترجمة للنسخة الإنجليزية. أُبقيت أسماء الأدوات والمواقع بلغتها الأصلية.
+<sub>هذه ترجمة للنسخة الإنجليزية. أُبقيت أسماء الأدوات والمواقع بلغتها الأصلية.</sub>
 
 > قائمة مختارة من أروع موارد UI/UX والتصميم
 موارد لكل ما يتعلق بـ UI / UX. المساهمات مرحّب بها، فقط أرسل pull request!

@@ -1,10 +1,12 @@
 # Awesome-UI [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 <!-- lang-bar -->
-🌐 [English](README.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português (BR)](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [हिन्दी](README.hi.md) · **বাংলা** · [Bahasa Indonesia](README.id.md) · [العربية](README.ar.md) · 🔗 [ওয়েবসাইট](https://thirstyeggplant.github.io/awesome-ui/bn/)
+**🔗 ওয়েবসাইট: [https://thirstyeggplant.github.io/awesome-ui/bn/](https://thirstyeggplant.github.io/awesome-ui/bn/)**
+
+🌐 [English](README.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português (BR)](README.pt-BR.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [हिन्दी](README.hi.md) · **বাংলা** · [Bahasa Indonesia](README.id.md) · [العربية](README.ar.md)
 <!-- /lang-bar -->
 
-> এটি ইংরেজি সংস্করণের অনুবাদ। টুল ও ওয়েবসাইটের নাম মূল ভাষায় রাখা হয়েছে।
+<sub>এটি ইংরেজি সংস্করণের অনুবাদ। টুল ও ওয়েবসাইটের নাম মূল ভাষায় রাখা হয়েছে।</sub>
 
 > দারুণ UI/UX ও ডিজাইন রিসোর্সের বাছাই করা তালিকা
 UI / UX সম্পর্কিত সবকিছুর রিসোর্স। অবদান স্বাগত, শুধু একটি pull request পাঠান!
