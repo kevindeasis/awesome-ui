@@ -11,11 +11,7 @@
 > Une sélection de ressources géniales en UI/UX et design
 Des ressources pour tout ce qui touche à l’UI / UX. Les contributions sont les bienvenues, il suffit d’ouvrir une pull request !
 
-<a id="featured"></a>
-## À la une
-
-- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - Tous vos terminaux sur un seul canevas dans votre navigateur. Lancez plusieurs agents de code côte à côte et voyez d’un coup d’œil lequel vous attend, à quelle étape en est chacun et ce que chacun a écrit pour vous. Fonctionne sur votre propre ordinateur.
-
+**À la une :** [Aubergine](https://github.com/thirstyeggplant/aubergine) - Tous vos terminaux sur un seul canevas dans votre navigateur. Lancez plusieurs agents de code côte à côte et voyez d’un coup d’œil lequel vous attend, à quelle étape en est chacun et ce que chacun a écrit pour vous. Fonctionne sur votre propre ordinateur.
 
 <a id="trending"></a>
 ## Tendances
@@ -37,7 +33,6 @@ Des ressources pour tout ce qui touche à l’UI / UX. Les contributions sont le
 
 <a id="table-of-contents"></a>
 # Table des matières
-0. [À la une](#featured)
 1. [Outils de prototypage](#prototyping-tools)
    + [Outils de design IA](#ai-design-tools)
 2. [Outils de wireframing](#wireframing-tools)

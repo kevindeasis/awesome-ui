@@ -11,11 +11,7 @@
 > Daftar pilihan sumber UI/UX dan desain yang keren
 Sumber untuk segala hal tentang UI / UX. Kontribusi sangat diterima, cukup kirim pull request!
 
-<a id="featured"></a>
-## Unggulan
-
-- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - Semua terminal Anda di satu kanvas di browser. Jalankan beberapa agen coding berdampingan dan lihat sekilas mana yang sedang menunggu Anda, di langkah mana masing-masing berada, dan apa yang telah ditulis masing-masing untuk Anda. Berjalan di komputer Anda sendiri.
-
+**Unggulan:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - Semua terminal Anda di satu kanvas di browser. Jalankan beberapa agen coding berdampingan dan lihat sekilas mana yang sedang menunggu Anda, di langkah mana masing-masing berada, dan apa yang telah ditulis masing-masing untuk Anda. Berjalan di komputer Anda sendiri.
 
 <a id="trending"></a>
 ## Sedang tren
@@ -37,7 +33,6 @@ Sumber untuk segala hal tentang UI / UX. Kontribusi sangat diterima, cukup kirim
 
 <a id="table-of-contents"></a>
 # Daftar isi
-0. [Unggulan](#featured)
 1. [Alat prototipe](#prototyping-tools)
    + [Alat desain AI](#ai-design-tools)
 2. [Alat wireframe](#wireframing-tools)

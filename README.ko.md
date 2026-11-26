@@ -11,11 +11,7 @@
 > 멋진 UI/UX 및 디자인 리소스 큐레이션 목록
 UI / UX와 관련된 모든 리소스. 기여를 환영합니다. 풀 리퀘스트를 보내 주세요!
 
-<a id="featured"></a>
-## 추천
-
-- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - 브라우저의 캔버스 하나에 모든 터미널을. 여러 코딩 에이전트를 나란히 실행하고, 어떤 에이전트가 당신을 기다리는지, 각각 어느 단계에 있는지, 무엇을 작성했는지 한눈에 확인하세요. 당신의 컴퓨터에서 실행됩니다.
-
+**추천:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - 브라우저의 캔버스 하나에 모든 터미널을. 여러 코딩 에이전트를 나란히 실행하고, 어떤 에이전트가 당신을 기다리는지, 각각 어느 단계에 있는지, 무엇을 작성했는지 한눈에 확인하세요. 당신의 컴퓨터에서 실행됩니다.
 
 <a id="trending"></a>
 ## 트렌드
@@ -37,7 +33,6 @@ UI / UX와 관련된 모든 리소스. 기여를 환영합니다. 풀 리퀘스�
 
 <a id="table-of-contents"></a>
 # 목차
-0. [추천](#featured)
 1. [프로토타이핑 도구](#prototyping-tools)
    + [AI 디자인 도구](#ai-design-tools)
 2. [와이어프레임 도구](#wireframing-tools)

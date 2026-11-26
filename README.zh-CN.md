@@ -11,11 +11,7 @@
 > 精选的优秀 UI/UX 与设计资源列表
 涵盖 UI / UX 相关的一切资源。欢迎贡献，提交 pull request 即可！
 
-<a id="featured"></a>
-## 精选推荐
-
-- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - 在浏览器中把所有终端放在同一块画布上。并排运行多个编程智能体，一眼就能看出哪个在等你、每个进行到哪一步、各自为你写了什么。完全在你自己的电脑上运行。
-
+**推荐：** [Aubergine](https://github.com/thirstyeggplant/aubergine) - 在浏览器中把所有终端放在同一块画布上。并排运行多个编程智能体，一眼就能看出哪个在等你、每个进行到哪一步、各自为你写了什么。完全在你自己的电脑上运行。
 
 <a id="trending"></a>
 ## 热门趋势
@@ -37,7 +33,6 @@
 
 <a id="table-of-contents"></a>
 # 目录
-0. [精选推荐](#featured)
 1. [原型设计工具](#prototyping-tools)
    + [AI 设计工具](#ai-design-tools)
 2. [线框图工具](#wireframing-tools)

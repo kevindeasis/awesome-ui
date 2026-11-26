@@ -11,11 +11,7 @@
 > Eine kuratierte Liste großartiger UI/UX- und Designressourcen
 Ressourcen rund um UI / UX. Beiträge sind willkommen – einfach einen Pull Request stellen!
 
-<a id="featured"></a>
-## Empfohlen
-
-- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - Alle deine Terminals auf einer Leinwand im Browser. Lass mehrere Coding-Agenten nebeneinander laufen und sieh auf einen Blick, welcher auf dich wartet, bei welchem Schritt jeder ist und was jeder für dich geschrieben hat. Läuft auf deinem eigenen Rechner.
-
+**Empfohlen:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - Alle deine Terminals auf einer Leinwand im Browser. Lass mehrere Coding-Agenten nebeneinander laufen und sieh auf einen Blick, welcher auf dich wartet, bei welchem Schritt jeder ist und was jeder für dich geschrieben hat. Läuft auf deinem eigenen Rechner.
 
 <a id="trending"></a>
 ## Im Trend
@@ -37,7 +33,6 @@ Ressourcen rund um UI / UX. Beiträge sind willkommen – einfach einen Pull Req
 
 <a id="table-of-contents"></a>
 # Inhaltsverzeichnis
-0. [Empfohlen](#featured)
 1. [Prototyping-Tools](#prototyping-tools)
    + [KI-Designtools](#ai-design-tools)
 2. [Wireframing-Tools](#wireframing-tools)

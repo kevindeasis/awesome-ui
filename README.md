@@ -9,10 +9,7 @@
 > A curated list of awesome UI/UX, and Design
 Resource for everything related to UI / UX. Contributions are welcome, just do a pull request!
 
-## Featured
-
-- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - All your terminals on one canvas in your browser. Run several coding agents side by side and see at a glance which one is waiting for you, which step each is on, and what each has written for you. Runs on your own computer.
-
+**Featured:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - All your terminals on one canvas in your browser. Run several coding agents side by side and see at a glance which one is waiting for you, which step each is on, and what each has written for you. Runs on your own computer.
 
 ## Trending
 0. [Trending](https://github.com/whatwhatgoose/trending/issues)
@@ -29,7 +26,6 @@ Resource for everything related to UI / UX. Contributions are welcome, just do a
 
 
 # Table of Contents
-0. [Featured](https://github.com/thirstyeggplant/awesome-ui#featured)
 1. [Prototyping Tools](https://github.com/thirstyeggplant/awesome-ui#prototyping-tools)
    + [AI Design Tools](https://github.com/thirstyeggplant/awesome-ui#ai-design-tools)
 2. [Wireframing Tools](https://github.com/thirstyeggplant/awesome-ui#wireframing-tools)
